@@ -26,4 +26,4 @@ for i in range(k2):
     
 
 print(day, month, year)
-    
+print("test")    
